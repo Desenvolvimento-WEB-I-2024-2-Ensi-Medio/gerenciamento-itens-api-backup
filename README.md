@@ -3,8 +3,6 @@
 
 API RESTful para gerenciamento de itens e autenticação de usuários, desenvolvida com Node.js e SQLite. Oferece suporte a autenticação via JWT e documentação interativa utilizando Swagger.
 
-Além disso, existem, diversos bugs no code que precisam ser ajustados para que o code funcione.
-
 ## Funcionalidades
 
 - Autenticação de usuários com JWT.
